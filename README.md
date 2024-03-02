@@ -1,10 +1,12 @@
 <p><pre align="center">
-<strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/KonstantinMedvedev1996">GitHub</a> / </pre></p>
+<strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
+ <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
 
-I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
+I am an expert in machine learning and data analysis, specializing in time series prediction within financial markets. My research extends to the application of reinforcement learning techniques in the video game industry, alongside active involvement in day trading strategies.<br/>
 
-### Open access books & journals
-- **[Scientific Visualization: Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social"> 
+### SQL - corner stone of data analysis world
+- **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
+
 
 <!--
 ### Open access books & journals
