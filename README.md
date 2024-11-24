@@ -2,11 +2,22 @@
 <strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
  <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
 
-I began my career in the Computer Graphics (CG) industry as a plugin developer for Autodesk Maya, where I created custom tools to enhance animation and modeling workflows. This provided me with deep expertise in scripting and software extensions for high-performance creative tools.
+Welcome to My GitHub! 👋
+I'm a Python developer with a diverse background spanning computer graphics, AI, robotics, and financial technology. My journey in tech has equipped me with a unique blend of expertise across various domains:
 
-Subsequently, I expanded into AI applications in robotics, contributing to projects involving robotic control and simulation using Gazebo. This work deepened my understanding of AI, machine learning, and their practical implementations in robotics.
+Computer Graphics (CG):
+I started my career as a plugin developer for Autodesk Maya, creating custom tools to enhance animation and modeling workflows. This experience honed my skills in scripting and building software extensions for high-performance creative tools.
 
-My most significant strength lies in developing web applications for stock and cryptocurrency trading platforms. I specialize in implementing machine learning (ML) and reinforcement learning (RL) models to optimize trading strategies and enhance user experiences. These applications include real-time data visualization, predictive analytics, and algorithmic trading solutions tailored to dynamic market conditions.
+AI and Robotics:
+Transitioning into AI applications, I contributed to robotics projects involving control and simulation using Gazebo, deepening my understanding of AI, machine learning, and their real-world applications in civil drone manufacturing.
+
+Web Application in FinTech and Trading Platforms:
+My current focus is on developing web applications for stock and cryptocurrency trading platforms. I specialize in integrating machine learning (ML) and reinforcement learning (RL) to optimize trading strategies, delivering solutions like:
+
+Real-time data visualization
+Predictive analytics
+Algorithmic trading tailored to dynamic market conditions
+I am passionate about building scalable, innovative solutions that bridge cutting-edge technology and user needs. Feel free to explore my repositories and connect if you'd like to collaborate!
 
 <br/>
 
@@ -30,7 +41,14 @@ My most significant strength lies in developing web applications for stock and c
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)\
 ![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
-![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)\
+![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch&logoColor=ee4c2c)&nbsp;
+
+
+<p align="center">
+  [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/KostyaMedv)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:konstantin.medvedev.1996@gmail.com)
+</p>
 
 ### SQL - corner stone of data analysis world
 - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
