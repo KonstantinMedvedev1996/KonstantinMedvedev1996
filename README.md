@@ -2,7 +2,13 @@
 <strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
  <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
 
-I am a good expert in machine learning and data analysis, specializing in time series prediction within financial markets. My research extends to the application of reinforcement learning techniques in the video game industry, alongside active involvement in day trading strategies.<br/>
+I began my career in the Computer Graphics (CG) industry as a plugin developer for Autodesk Maya, where I created custom tools to enhance animation and modeling workflows. This provided me with deep expertise in scripting and software extensions for high-performance creative tools.
+
+Subsequently, I expanded into AI applications in robotics, contributing to projects involving robotic control and simulation using Gazebo. This work deepened my understanding of AI, machine learning, and their practical implementations in robotics.
+
+My most significant strength lies in developing web applications for stock and cryptocurrency trading platforms. I specialize in implementing machine learning (ML) and reinforcement learning (RL) models to optimize trading strategies and enhance user experiences. These applications include real-time data visualization, predictive analytics, and algorithmic trading solutions tailored to dynamic market conditions.
+
+<br/>
 
 ### SQL - corner stone of data analysis world
 - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
