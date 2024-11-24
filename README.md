@@ -10,6 +10,28 @@ My most significant strength lies in developing web applications for stock and c
 
 <br/>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-005F73?style=for-the-badge&logo=flask&logoColor=ffffff)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwindCSS&logoColor=38BDF8)\
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=nginx&logoColor=0c6b47)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)\
+![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
+![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)
+
 ### SQL - corner stone of data analysis world
 - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
 
