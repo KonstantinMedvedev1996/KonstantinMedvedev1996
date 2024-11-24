@@ -2,7 +2,7 @@
 <strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
  <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
 
-I am an expert in machine learning and data analysis, specializing in time series prediction within financial markets. My research extends to the application of reinforcement learning techniques in the video game industry, alongside active involvement in day trading strategies.<br/>
+I am a good expert in machine learning and data analysis, specializing in time series prediction within financial markets. My research extends to the application of reinforcement learning techniques in the video game industry, alongside active involvement in day trading strategies.<br/>
 
 ### SQL - corner stone of data analysis world
 - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
