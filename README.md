@@ -45,12 +45,12 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 ![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)\
 ![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch&logoColor=ee4c2c)&nbsp;
-![Celery](https://img.shields.io/badge/-Flower-222222?style=flat&logo=https://raw.githubusercontent.com/KonstantinMedvedev1996/KonstantinMedvedev1996/blob/main/img/celery.png)
+![Celery](https://img.shields.io/badge/-Flower-222222?style=flat&logo=https://github.com/KonstantinMedvedev1996/KonstantinMedvedev1996/blob/main/img/celery.png)
 
 
 <p align="center">
-  ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/KostyaMedv)
-  ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:konstantin.medvedev.1996@gmail.com)
+  ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)(https://t.me/KostyaMedv)
+  ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)(mailto:konstantin.medvedev.1996@gmail.com)
 </p>
 
 ### SQL - corner stone of data analysis world
