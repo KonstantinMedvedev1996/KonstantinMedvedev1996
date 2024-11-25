@@ -49,15 +49,16 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 
 
 <p align="center">
-<a href="https://www.tagir-khalilov.ru"><img src="https://img.shields.io/badge/-tagir&minus;khalilov.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <a href="https://www.tagir-khalilov.ru"><img src="https://img.shields.io/badge/-tagir&minus;khalilov.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a target="_blank" href="mailto:konstantin.medvedev.1996@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://t.me/KostyaMedv"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)(https://t.me/KostyaMedv)
   ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)(mailto:konstantin.medvedev.1996@gmail.com)
-</p>
+</p> -->
 
 ### SQL - corner stone of data analysis world
 - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
