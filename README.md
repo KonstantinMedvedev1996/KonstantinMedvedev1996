@@ -46,7 +46,8 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)\
 ![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch&logoColor=ee4c2c)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-222222?style=flat&logo=https://github.com/KonstantinMedvedev1996/KonstantinMedvedev1996/blob/main/img/celery.png)
-![Airflow](https://img.shields.io/badge/-AirFlow-222222?style=flat&logo=airflow&logoColor=ee4c2c)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-222222?style=flat&logo=apache-airflow&logoColor=017CEE)
+
 
 
 <p align="center">
