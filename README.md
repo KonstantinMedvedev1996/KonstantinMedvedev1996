@@ -1,6 +1,6 @@
 <p><pre align="center">
-<strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
- <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
+<!-- <strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
+ <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p> -->
 
 # Welcome to My GitHub! 👋
 
@@ -62,8 +62,8 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
   ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)(mailto:konstantin.medvedev.1996@gmail.com)
 </p> -->
 
-### SQL - corner stone of data analysis world
-- **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)** 
+<!-- ### SQL - corner stone of data analysis world -->
+<!-- - **[Bunch of quick practical tips and tricks from my SQL experience](https://github.com/konstantinmedvedev1996/sql)**  -->
 
 
 <!--
