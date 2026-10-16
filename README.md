@@ -1,10 +1,9 @@
 <p><pre align="center">
-<strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
- <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
+<strong>Konstantin Medvedev</strong> 
 
 # Welcome to My GitHub! 👋
 
-I'm a passionate software developer with a diverse background spanning **computer graphics**, **AI**, **robotics**, and **financial technology**. My journey in tech has equipped me with a unique blend of expertise across various domains:
+I'm a passionate **data analyst** with a diverse background spanning **data analysis**, **data research**, **data engineering**, and **machine learning**. My journey in the world of data has equipped me with a unique blend of expertise across various domains.
 
 ## 📊 Computer Graphics (CG)
 I started my career as a plugin developer for **Autodesk Maya**, creating custom tools to enhance animation and modeling workflows. This experience honed my skills in **scripting** and building **software extensions** for high-performance creative tools.
@@ -25,31 +24,29 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 
 ### 🛠 &nbsp;Tech Stack
 
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)&nbsp;
+![Data Research](https://img.shields.io/badge/Data-Research-green)&nbsp;
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple)&nbsp;\
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
-![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=ffffff)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwindCSS&logoColor=38BDF8)\
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-222222?style=flat&logo=numpy&logoColor=013243)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)&nbsp;\
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-222222?style=flat&logo=plotly)
+![Plotly](https://img.shields.io/badge/-Plotly-222222?style=flat&logo=plotly)
+![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter)\
+![Power BI](https://img.shields.io/badge/-Power%20BI-222222?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-222222?style=flat&logo=tableau&logoColor=E97627)&nbsp;\
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-222222?style=flat&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/-XGBoost-222222?style=flat)
+![CatBoost](https://img.shields.io/badge/-CatBoost-222222?style=flat)\
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=nginx&logoColor=0c6b47)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)\
-![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
-![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)\
-![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch&logoColor=ee4c2c)&nbsp;
-![Celery](https://img.shields.io/badge/-Celery-222222?style=flat&logo=https://github.com/KonstantinMedvedev1996/KonstantinMedvedev1996/blob/main/img/celery.png)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-222222?style=flat&logo=apache-airflow&logoColor=017CEE)
-
-
-
 <p align="center">
 <!-- <a href="https://www.tagir-khalilov.ru"><img src="https://img.shields.io/badge/-tagir&minus;khalilov.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a target="_blank" href="mailto:konstantin.medvedev.1996@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
