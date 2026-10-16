@@ -1,6 +1,5 @@
 <p><pre align="center">
-<strong>Konstantin Medvedev /</strong> <a href=https://www.linkedin.com/in/konstantin-medvedev-937058207/>LinkedIn</a> /  <a href="https://github.com/KonstantinMedvedev1996/">GitHub</a> / 
- <a href="https://www.artstation.com/robinzonvs">Artstation</a></pre></p>
+<strong>Konstantin Medvedev /</strong> </pre></p>
 
 # Welcome to My GitHub! 👋
 
@@ -25,6 +24,10 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 
 ### 🛠 &nbsp;Tech Stack
 
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)&nbsp;
+![Data Research](https://img.shields.io/badge/Data-Research-green)&nbsp;
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple)\
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
 ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
