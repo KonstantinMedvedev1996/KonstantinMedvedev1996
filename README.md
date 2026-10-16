@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Konstantin Medvedev</strong> 
+<strong>Konstantin Medvedev /</strong> </pre></p>
 
 # Welcome to My GitHub! 👋
 
@@ -30,23 +30,22 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple)\
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-222222?style=flat&logo=numpy&logoColor=013243)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)&nbsp;\
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-222222?style=flat&logo=plotly)
 ![Plotly](https://img.shields.io/badge/-Plotly-222222?style=flat&logo=plotly)
-![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter)\
+![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=jupyter)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-222222?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-222222?style=flat&logo=tableau&logoColor=E97627)&nbsp;\
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-222222?style=flat&logo=scikitlearn&logoColor=F7931E)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-222222?style=flat)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-222222?style=flat)\
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-222222?style=flat&logo=apache-airflow&logoColor=017CEE)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
 <p align="center">
 <!-- <a href="https://www.tagir-khalilov.ru"><img src="https://img.shields.io/badge/-tagir&minus;khalilov.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a target="_blank" href="mailto:konstantin.medvedev.1996@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
