@@ -24,10 +24,10 @@ Feel free to explore my repositories and connect if you'd like to collaborate!
 
 ### 🛠 &nbsp;Tech Stack
 
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)&nbsp;
-![Data Research](https://img.shields.io/badge/Data-Research-green)&nbsp;
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)&nbsp;
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple)&nbsp;\
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Data Research](https://img.shields.io/badge/Data-Research-green)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple)\
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
